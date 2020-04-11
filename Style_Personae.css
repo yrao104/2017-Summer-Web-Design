@@ -1,0 +1,41 @@
+.important {
+  background-color: GreenYellow;
+}
+
+.meh {
+  background-color: violet;
+}
+
+.cool {
+  background-color: CadetBlue;
+}
+
+.yay {
+  background-color: OliveDrab;
+}
+
+.ok {
+  background-color: Turquoise;
+}
+
+.sortaimportant {
+  background-color: SandyBrown;
+}
+
+body {
+  font: Arial;
+  font-family: sans-serif;
+
+}
+
+#div {
+padding: 60px;
+background-image: url("http://ecx.images-amazon.com/images/I/512y9iv6F9L.jpg");
+background-repeat: repeat;
+background-attachment: scroll;
+
+}
+
+dd {
+color: rgba(255, 41, 41, 1);
+}

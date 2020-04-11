@@ -1,0 +1,55 @@
+.dropdown {
+  background-color: Teal;
+  font: 18px white;
+  padding: 7px;
+  position: relative;
+  display: inline-block;
+}
+a {
+  font: 18px white;
+}
+.button {
+  cursor: pointer;
+  padding: 0px;
+  border: none;
+  margin: 0px;
+}
+.content {
+  display: none;
+  position: absolute;
+  font: white;
+  background-color: Teal;
+  padding: 7px;
+  width: 200px;
+}
+.dropdown:hover .content {
+  display:block;
+}
+
+table {
+margin: auto;
+}
+
+.dropdown a{
+color: Ivory;
+}
+
+img {
+width: 200px;
+height: 130px;
+margin: auto;
+display: block;
+}
+
+#div {
+ background-image: url("https://wallpaperscraft.com/image/spots_background_light_circles_69100_2560x1600.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ padding: 60px;
+}
+.content2 {
+  text-indent: 50px;
+}
+p, h1 {
+  font-family: cursive; Helvetica;
+}

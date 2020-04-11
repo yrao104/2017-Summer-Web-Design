@@ -1,0 +1,23 @@
+header {
+  background-color: black;
+  font: 24px grey;
+  padding: 10px;
+}
+ul {
+  list-style-type: none;
+}
+.hover{
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+.dropcont {
+  display: none;
+  position: absolute;
+}
+.about:hover>.dropcont {
+  display: block;
+  background-color: grey;
+  font: black;
+  position: absolute;
+}

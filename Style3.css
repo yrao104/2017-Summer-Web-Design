@@ -1,0 +1,25 @@
+body {
+background-color: cyan;
+font-family: Extended;
+}
+
+h1 {
+color: moccasin;
+font-family: Condensed;
+}
+
+th {
+font-family: Oblique;
+color: IndianRed;
+border-top: 3px solid;
+border-bottom: 3px solid;
+border-right: 3px solid;
+border-left: 3px solid;
+}
+
+td{
+border-top: 3px solid;
+border-bottom: 3px solid;
+border-right: 3px solid;
+border-left: 3px solid;
+}

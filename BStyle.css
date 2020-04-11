@@ -1,0 +1,169 @@
+#header {
+	float: left;
+	width: 14%;
+	margin: 10px;
+	border: solid black;
+	padding: 10px;
+	height: 73.6px;
+	display: inline-block;
+	clear: left;
+	background-color: LightCyan;
+}
+	#navheader {
+	width: 78%;
+	margin: 10px;
+	border: solid black;
+	padding: 10px;	
+	height: 73.6px;
+	display: inline-block;
+	float: left;
+	background-color: rgba(143, 200, 220, 1);
+}
+	aside #article {
+	width: 96%; 
+	padding: 10px;
+	margin: 10px;
+	border: solid black;
+	display: inline-block;
+	background-color: PaleTurquoise;	
+
+}
+	.articleleft {
+	float: left;
+	width: 46%;
+	padding: 10px;
+	margin: 10px;
+	border: solid black;
+	display: inline-block;
+	clear: left;
+	
+
+}
+	.articleright {
+	float: left;
+	width: 46%;
+	padding: 10px;
+	margin: 5px;
+	border: solid black;
+	display: inline-block;
+	background-color: SkyBlue;
+
+}
+	div.articleleft {
+	background-color: LightBlue;  
+}	
+	div.articleleft {
+	height: 165.6px;
+	background-color: LightSkyBlue;
+ 
+}
+	nav.articleright {
+	height: 202.4px;
+	background-color: DarkTurquoise;
+}
+	nav.articleleft {
+	background-color: CadetBlue; 
+}
+
+	#heading {
+	width: 31%; 
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	border: solid black;
+	display: inline-block;
+	background-color: DeepSkyBlue;
+
+}
+	#left {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	margin: 10px;
+	border: solid black;
+	display: inline-block;	
+	clear: left;
+	margin-top: 84.2px;
+	height: 184px;
+	background-color: DodgerBlue;
+
+}
+	#center {
+	width: 29%;
+	padding: 10px;
+	margin: 10px;
+	border: solid black;
+	display: inline-block;
+	float: left;
+	background-color: RoyalBlue;	
+
+}
+	#right {
+	width: 29%;
+	padding: 10px;
+	margin: 10px;
+	border: solid black;
+	display: inline-block;	
+	float: left;
+	height: 184px;
+	background-color: SteelBlue;
+
+}
+
+	#one{
+	clear: left;
+	float: left;
+	border: solid black;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	height: 55.2px;
+	width: 21%;
+	background-color: Teal;
+}
+	#two{
+	float: left;
+	border: solid black;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	width: 21%;
+	background-color: MediumBlue;
+}
+
+	#three{
+	float: left;
+	border: solid black;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	height: 55.2px;
+	width: 21%;
+	background-color: Aquamarine;
+}
+
+	#four{
+	float: left;
+	border: solid black;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	width: 21%;
+	background-color: Cyan;
+}
+
+	header{
+	display: inline-block;
+}
+
+	aside{
+	display: inline-block;
+}
+
+	footer{
+	display: inline-block;
+}
+
+
+
+

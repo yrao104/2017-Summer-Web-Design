@@ -1,0 +1,46 @@
+body {
+background-color:LightBlue;
+text-align:center;
+}
+
+#year{
+border-radius: 15px;
+border-color:DarkBlue;
+padding: 6px;
+border: 2px solid;
+float: center;
+clear: both;
+margin: 0px;
+
+}
+
+#course{
+border-radius: 15px;
+border-color:DarkBlue;
+padding: 6px;
+border: 2px solid;
+float: center;
+clear: both;
+margin: 0px;
+}
+
+#units{
+border-radius: 15px;
+border-color:DarkBlue;
+padding: 6px;
+border: 2px solid;
+float: center
+clear: both;
+margin: 0px;
+}
+
+body{
+font-family: Verdana;
+font-size: 21px;
+}
+
+.press{
+background-color: GreenYellow;
+border: 5px solid SpringGreen;
+}
+

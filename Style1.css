@@ -1,0 +1,29 @@
+body {
+background-color: PaleGreen;
+color: Green;
+}
+
+h1 {
+font-family: Monotype Corsiva;
+color: DarkGreen;
+}
+
+th {
+font-family: Arial;
+color: DarkOliveGreen;
+border-top: 3px solid;
+border-bottom: 3px solid;
+border-right: 3px solid;
+border-left: 3px solid;
+font-size: 20px;
+margin-left: 5px;
+
+
+}
+
+td{
+border-top: 3px solid;
+border-bottom: 3px solid;
+border-right: 3px solid;
+border-left: 3px solid;
+}

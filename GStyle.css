@@ -1,0 +1,22 @@
+div {
+	float: left;
+	width: 30px;
+	height: 30px;
+	background-color: DodgerBlue;
+}
+
+.red {
+	background-color: Brown;
+}
+
+.blue {
+	background-color: LightCyan;
+}
+
+.dblue {
+	background-color: DodgerBlue;
+}
+
+.green {
+	background-color: OliveDrab;
+}

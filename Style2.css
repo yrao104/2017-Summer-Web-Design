@@ -1,0 +1,25 @@
+h1 {
+font-family: Comic Sans MS;
+color: MediumVioletRed;
+}
+
+th{
+font-family: Courtier;
+font-size: 25px;
+color: OrangeRed;
+border-top: 3px solid;
+border-bottom: 3px solid;
+border-right: 3px solid;
+border-left: 3px solid;
+}
+
+body{
+background-color: Plum; 
+}
+
+td {
+border-top: 3px solid;
+border-bottom: 3px solid;
+border-right: 3px solid;
+border-left: 3px solid;
+}
